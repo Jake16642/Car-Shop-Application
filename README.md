@@ -1,6 +1,8 @@
 # Introduction
 Contributors: Long Le, Thang Le, Jake Tran, Tu Ho
+
 Car-Shop-Application written in Java
+
 This apllication applying JavaFX, MySQL, ScenceBuilder, and Java.
 
 Login Page:
